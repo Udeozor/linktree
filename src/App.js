@@ -7,6 +7,8 @@ import I4G from "./assets/I4G.png";
 import zuri from "./assets/logo.36d2d48a.png";
 import slack from "./assets/slack.png";
 import hover from "./assets/hover.png";
+import { Route, Routes } from "react-router-dom";
+import { contact } from "./Pages/contact";
 
 function App() {
   const twitter = "https://twitter.com/_Udeozor";
